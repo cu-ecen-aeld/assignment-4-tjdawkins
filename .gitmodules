@@ -3,4 +3,4 @@
 	url = https://github.com/cu-ecen-5013/assignment-autotest
 [submodule "buildroot"]
 	path = buildroot
-	url = ./buildroot
+	url = git@github.com:buildroot/buildroot.git
